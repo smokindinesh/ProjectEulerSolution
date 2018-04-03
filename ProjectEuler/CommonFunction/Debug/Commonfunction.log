@@ -1,2 +1,3 @@
-﻿  commonfunction.cpp
+﻿  stdafx.cpp
+  commonfunction.cpp
   Commonfunction.vcxproj -> E:\Self Work\ProjectEuler\ProjectEuler\Debug\CommonFunction.lib
