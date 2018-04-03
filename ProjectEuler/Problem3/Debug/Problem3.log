@@ -1,3 +1,1 @@
-﻿  Problem3.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EulerFunction.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Problem3.vcxproj -> E:\Self Work\ProjectEuler\ProjectEuler\Debug\Problem3.exe
+﻿  Problem3.vcxproj -> E:\Self Work\ProjectEuler\ProjectEuler\Debug\Problem3.exe
